@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 <!--img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
  <!-- <img align="right" alt="coding" width="400" src="https://github.com/joshivmal/joshivmal/assets/114051367/3152c2fe-be2b-47ac-899f-9ae8987764b2"> -->
- <img align="right" alt="coding" width="400" height = "250" src="https://media3.giphy.com/media/3oxRm9NLuGHvWCZcdO/giphy.gif?cid=6c09b952mq1cxolw8jmp6jvntev8fvecye5nctfj4wdtubou&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+ <img align="right" alt="coding" width="400" height = "250" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshivmal&label=Profile%20views&color=0e75b6&style=flat" alt="joshivmal" /> </p>
 
